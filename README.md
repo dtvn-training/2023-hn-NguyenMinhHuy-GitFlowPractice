@@ -1,2 +1,2 @@
 # 2023-hn-NguyenMinhHuy-practice
-test git fetch
+this is a repo for practicing
