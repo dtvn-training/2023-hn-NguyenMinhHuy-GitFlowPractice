@@ -1,2 +1,3 @@
 # 2023-hn-NguyenMinhHuy-practice
-simple readme
+this is a repo for practicing
+
